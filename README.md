@@ -13,7 +13,7 @@
 | 2018.12 ~ 2018.12    | <a href="https://github.com/jinan159/store_publish">WEB POS Project - Fullstack</a> | Silla University - WEB2 Lecture final assignment |
 | 2019.08 ~ 2019.12    | <a href="#-back-office">Back Office Solution - Fullstack</a> | BNKSYSTEM(Intern) |
 | 2020.01 ~ 2020.02    | <a href="#-pc-off">PC OFF Project - Client Side</a> | BNKSYSTEM(Intern) |
-| 2020.03 ~              |         CMS(Cash Management System) maintenance          | BNKSYSTEM |
+| 2020.03 ~              | <a href="#-cms">CMS(Cash Management System) maintenance</a> | BNKSYSTEM |
 
 ### 🛠 Back Office
 * FullStack
@@ -36,6 +36,15 @@ Windows Forms
 Spring
 iBatis
 Oracle
+```
+
+### 🛠 CMS
+* Client
+```
+C#
+Windows Forms
+Infragistics
+MSSQL
 ```
 
 
