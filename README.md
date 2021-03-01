@@ -11,9 +11,10 @@
 | :------------------: | :----------------------------------------------------------: | :------------------------------------------------: |
 | 2014.03 ~ 2020.02    |         Department of Computer Software Engineering          |                 Silla University                   |
 | 2018.12 ~ 2018.12    | <a href="https://github.com/jinan159/store_publish">WEB POS Project - Fullstack</a> | Silla University - WEB2 Lecture final assignment |
-| 2019.08 ~ 2019.12    | <a href="#-back-office">Back Office Solution - Fullstack</a> | BNKSYSTEM(Intern) |
-| 2020.01 ~ 2020.02    | <a href="#-pc-off">PC OFF Project - Client Side</a> | BNKSYSTEM(Intern) |
-| 2020.03 ~              | <a href="#-cms">CMS(Cash Management System) maintenance</a> | BNKSYSTEM |
+| 2019.08 ~ 2019.12    | Back Office Solution - Fullstack                             | BNKSYSTEM(Intern)                                  |
+| 2020.01 ~ 2020.02    | <a href="https://github.com/dndmadangiron/backend_nodejs">Jang Madang - Backend</a> | DND                         |
+| 2020.01 ~ 2020.02    | PC OFF Project - Client Side                                 | BNKSYSTEM(Intern)                                  |
+| 2020.03 ~            | CMS(Cash Management System) maintenance                      | BNKSYSTEM                                          |
 
 ### 🛠 Back Office
 * FullStack
@@ -24,6 +25,15 @@ Oracle
 Sencha ExtJs
 ```
 
+### 🛠 Jang Madang
+* Backend
+```
+Node.js
+Express
+MyBatis
+MySQL
+GCP(Compute Engine, Cloud SQL)
+```
 
 ### 🛠 PC OFF
 * Clien-Side
