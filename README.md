@@ -15,6 +15,7 @@
 | 2020.01 ~ 2020.02    | <a href="https://github.com/dndmadangiron/backend_nodejs">Jang Madang - Backend</a> | DND                         |
 | 2020.01 ~ 2020.02    | PC OFF Project - Client Side                                 | BNKSYSTEM(Intern)                                  |
 | 2020.03 ~            | CMS(Cash Management System) maintenance                      | BNKSYSTEM                                          |
+| 2021.05 ~            | my_page project                      | Side Project                                          |
 
 ### 🛠 Back Office
 * FullStack
@@ -57,6 +58,18 @@ Infragistics
 MSSQL
 ```
 
+### 🛠 My Page Project
+* Backend
+```
+node.js
+express
+jest
+mybatis
+MySQL
+```
+* FrontEnd
+```
+```
 
 <!--
 **jinan159/jinan159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
