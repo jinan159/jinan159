@@ -59,7 +59,7 @@ MSSQL
 ```
 
 ### 🛠 My Page Project
-* ![Backend](https://github.com/jinan159/my_page_server)
+* [Backend](https://github.com/jinan159/my_page_server)
 ```
 node.js
 express
