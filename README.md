@@ -69,6 +69,8 @@ MySQL
 ```
 * FrontEnd
 ```
+vue.js
+bootstrap
 ```
 
 <!--
