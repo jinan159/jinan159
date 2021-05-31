@@ -10,32 +10,37 @@
 |        Peroid        |                           Content                            |                    Organization                    |
 | :------------------: | :----------------------------------------------------------: | :------------------------------------------------: |
 | 2014.03 ~ 2020.02    |         Department of Computer Software Engineering          |                 Silla University                   |
-| 2018.12 ~ 2018.12    | <a href="https://github.com/jinan159/store_publish">WEB POS Project - Fullstack</a> | Silla University - WEB2 Lecture final assignment |
+| 2018.12 ~ 2018.12    | WEB POS Project - Fullstack | Silla University - WEB2 Lecture final assignment |
 | 2019.08 ~ 2019.12    | Back Office Solution - Fullstack                             | BNKSYSTEM(Intern)                                  |
-| 2020.01 ~ 2020.02    | <a href="https://github.com/dndmadangiron/backend_nodejs">Jang Madang - Backend</a> | DND                         |
+| 2020.01 ~ 2020.02    | Jang Madang - Backend | DND                         |
 | 2020.01 ~ 2020.02    | PC OFF Project - Client Side                                 | BNKSYSTEM(Intern)                                  |
 | 2020.03 ~            | CMS(Cash Management System) maintenance                      | BNKSYSTEM                                          |
 | 2021.05 ~            | my_page project                      | Side Project                                          |
 
-### 🛠 Back Office
-* FullStack
-```
-Spring
-iBatis
-Oracle
-Sencha ExtJs
-```
 
-### 🛠 Jang Madang
-* Backend
+### 🛠 My Page Project
+* [Backend](https://github.com/jinan159/my_page_server)
 ```
 Node.js
-Express
-MyBatis
+express
+jest
+mybatis
 MySQL
-GCP(Compute Engine, Cloud SQL)
+```
+* [FrontEnd](https://github.com/jinan159/my_page_client)
+```
+Vue.js
+Bootstrap
 ```
 
+### 🛠 CMS
+* Client
+```
+C#
+Windows Forms
+Infragistics
+MSSQL
+```
 ### 🛠 PC OFF
 * Clien-Side
 ```
@@ -49,28 +54,30 @@ iBatis
 Oracle
 ```
 
-### 🛠 CMS
-* Client
+### 🛠 Back Office
+* FullStack
 ```
-C#
-Windows Forms
-Infragistics
-MSSQL
+Spring
+iBatis
+Oracle
+Sencha ExtJs
 ```
 
-### 🛠 My Page Project
-* [Backend](https://github.com/jinan159/my_page_server)
+### 🛠 Jang Madang
+* [Backend](https://github.com/dndmadangiron/backend_nodejs)
 ```
-node.js
-express
-jest
-mybatis
+Node.js
+Express
+MyBatis
 MySQL
+GCP(Compute Engine, Cloud SQL)
 ```
-* [FrontEnd](https://github.com/jinan159/my_page_client)
+
+### 🛠 [WEB POS Project](https://github.com/jinan159/store_publish)
 ```
-vue.js
-bootstrap
+PHP
+Apache
+MySQL
 ```
 
 <!--
