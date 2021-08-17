@@ -15,23 +15,7 @@
 | 2020.01 ~ 2020.02    | Jang Madang - Backend | DND                         |
 | 2020.01 ~ 2020.02    | PC OFF Project - Client Side                                 | BNKSYSTEM(Intern)                                  |
 | 2020.03 ~            | CMS(Cash Management System) maintenance                      | BNKSYSTEM                                          |
-| 2021.05 ~            | my_page project                      | Side Project                                          |
 
-
-### 🛠 My Page Project
-* [Backend](https://github.com/jinan159/my_page_server)
-```
-Node.js
-express
-jest
-mybatis
-MySQL
-```
-* [FrontEnd](https://github.com/jinan159/my_page_client)
-```
-Vue.js
-Bootstrap
-```
 
 ### 🛠 CMS
 * Client
@@ -54,6 +38,7 @@ iBatis
 Oracle
 ```
 
+
 ### 🛠 Back Office
 * FullStack
 ```
@@ -62,6 +47,23 @@ iBatis
 Oracle
 Sencha ExtJs
 ```
+
+
+### 🛠 My Page Project
+* [Backend](https://github.com/jinan159/my_page_server)
+```
+Node.js
+express
+jest
+mybatis
+MySQL
+```
+* [FrontEnd](https://github.com/jinan159/my_page_client)
+```
+Vue.js
+Bootstrap
+```
+
 
 ### 🛠 Jang Madang
 * [Backend](https://github.com/dndmadangiron/backend_nodejs)
@@ -72,6 +74,7 @@ MyBatis
 MySQL
 GCP(Compute Engine, Cloud SQL)
 ```
+
 
 ### 🛠 [WEB POS Project](https://github.com/jinan159/store_publish)
 ```
