@@ -16,8 +16,10 @@
 | 2020.01 ~ 2020.02    | PC OFF Project - Client Side                                 | BNKSYSTEM(Intern)                                  |
 | 2020.03 ~            | CMS(Cash Management System) maintenance                      | BNKSYSTEM                                          |
 
+### Tech-stack on my job
 
-### 🛠 CMS
+
+#### 🛠 CMS
 * Client
 ```
 C#
@@ -25,7 +27,7 @@ Windows Forms
 Infragistics
 MSSQL
 ```
-### 🛠 PC OFF
+#### 🛠 PC OFF
 * Clien-Side
 ```
 C#
@@ -39,7 +41,7 @@ Oracle
 ```
 
 
-### 🛠 Back Office
+#### 🛠 Back Office
 * FullStack
 ```
 Spring
@@ -48,8 +50,20 @@ Oracle
 Sencha ExtJs
 ```
 
+### Personal Project Tech-stack
 
-### 🛠 My Page Project
+#### 🛠 Blograss project
+* [Backend](https://github.com/jinan159/blograss/tree/dev)
+```
+Node.js
+jest
+Open API
+
+Vercel
+```
+
+
+#### 🛠 My Page Project
 * [Backend](https://github.com/jinan159/my_page_server)
 ```
 Node.js
@@ -76,7 +90,7 @@ GCP(Compute Engine, Cloud SQL)
 ```
 
 
-### 🛠 [WEB POS Project](https://github.com/jinan159/store_publish)
+#### 🛠 [WEB POS Project](https://github.com/jinan159/store_publish)
 ```
 PHP
 Apache
