@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Hi%20👋,%20I'm%20Kim%20Jin%20Wan&fontSize=40&animation=fadeIn" alt="jinan159" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jinan159&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="jinan159" />
+  <br><br>
+  <img src="https://blograss-git-dev-jinan159.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=false&text_color=black" />
 </p>
 
 ### 🔭 History
@@ -61,8 +63,8 @@ Sencha ExtJs
 ### 🛠 Personal Project
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
