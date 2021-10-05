@@ -75,7 +75,12 @@ Sencha ExtJs
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Blograss project
-* [Backend](https://github.com/jinan159/blograss)
+* Backend
+```
+AWS API Gateway
+AWS Lambda
+```
+* [FrontEnd](https://github.com/jinan159/blograss)
 ```
 Node.js
 jest
