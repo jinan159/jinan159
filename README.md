@@ -3,7 +3,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jinan159&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="jinan159" />
   <br><br>
-  <img src="https://blograss-git-dev-jinan159.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=false&text_color=black" />
+  <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=true&text_color=brown&grass_color=brown" />
 </p>
 
 ### 🔭 History
