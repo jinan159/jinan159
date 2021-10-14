@@ -6,6 +6,7 @@
   <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=true&text_color=brown&grass_color=brown" />
 </p>
 
+<!--
 ### 🔭 History
 
 
@@ -123,6 +124,8 @@ PHP
 Apache
 MySQL
 ```
+
+-->
 
 <!--
 **jinan159/jinan159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
