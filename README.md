@@ -6,4 +6,6 @@
   </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jinan159&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="jinan159" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinan159" alt="jinan159" />
 </p>
