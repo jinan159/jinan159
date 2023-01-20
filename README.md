@@ -9,7 +9,8 @@
 <br><br>
 
 <a href="https://jwkim96.tistory.com" targer="new">
-    <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=false&text_color=black&grass_color=black" />
+    <img src="https://blograss.vercel.app/api?blog_type=tistory&year=2022&blog_name=jwkim96&dark_mode=true&text_color=white&grass_color=black" />
+    <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=true&text_color=white&grass_color=green" />
 </a>
 
 <br><br>
