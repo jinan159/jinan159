@@ -11,7 +11,7 @@
 <a href="https://jwkim96.tistory.com" targer="new">
     <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=true&text_color=white&grass_color=green" />
 </a><br>
-<a href="https://github.com/jinan159/blograss">Do you interested in image above? Click here!</a>
+<a href="https://github.com/jinan159/blograss">위 이미지에 대해 관심이 있으시다면 여기를 클릭해 주세요!</a>
 
 <br><br>
 
