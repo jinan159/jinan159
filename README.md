@@ -1,17 +1,11 @@
 # Interested in
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<br><br>
-
-<a href="https://jwkim96.tistory.com" targer="new">
-    <img src="https://blograss.vercel.app/api?blog_type=tistory&blog_name=jwkim96&dark_mode=true&text_color=white&grass_color=green" />
-</a><br>
-<a href="https://github.com/jinan159/blograss">위 이미지에 대해 관심이 있으시다면 여기를 클릭해 주세요!</a>
 
 <br><br>
 
