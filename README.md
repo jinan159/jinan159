@@ -1,11 +1,14 @@
-# Interested in
+### Skill
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Language : ![Static Badge](https://img.shields.io/badge/Java-FF9900),![Static Badge](https://img.shields.io/badge/Kotlin-white?logo=kotlin),![Static Badge](https://img.shields.io/badge/typescript-skyblue?logo=typescript)
+- Framework : ![Static Badge](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white),![Static Badge](https://img.shields.io/badge/JPA-green?logo=jpa),![Static Badge](https://img.shields.io/badge/Jetbrain_Exposed-white)
+- DevOps : ![Static Badge](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws),![Static Badge](https://img.shields.io/badge/GitHub_Action-black?logo=githubactions&logoColor=white),![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white),![Static Badge](https://img.shields.io/badge/Grafana_K6-white?logo=k6)
+- Etc : ![Static Badge](https://img.shields.io/badge/Notion-gray?logo=notion),![Static Badge](https://img.shields.io/badge/Slack-gray?logo=slack)
+
+### Contribution
+
+- [NAVER nGrinder(Add description on docker document)](https://github.com/naver/ngrinder/pull/953)
+- [ExprK(Fix typo on class init validation)](https://github.com/Keelar/ExprK/pull/14)
 
 <br><br>
 
