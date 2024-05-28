@@ -7,8 +7,11 @@
 
 ### Contribution
 
-- [NAVER nGrinder(Add description on docker document)](https://github.com/naver/ngrinder/pull/953)
-- [ExprK(Fix typo on class init validation)](https://github.com/Keelar/ExprK/pull/14)
+- Merged
+  - [NAVER nGrinder(Add description on docker document)](https://github.com/naver/ngrinder/pull/953)
+  - [ExprK(Fix typo on class init validation)](https://github.com/Keelar/ExprK/pull/14)
+- Issue
+  - [Mockk(Cannot mock kotlin object's get property that returns value class)](https://github.com/mockk/mockk/issues/1245)
 
 <br><br>
 
